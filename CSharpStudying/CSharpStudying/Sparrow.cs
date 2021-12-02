@@ -12,5 +12,10 @@ namespace CSharpStudying
         public Sparrow(Beak beak) : base(beak)
         {
         }
+
+        public override void Eat()
+        {
+            Console.WriteLine("참새 쌀알 먹는다. 콕콕!");
+        }
     }
 }

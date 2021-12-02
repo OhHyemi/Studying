@@ -1,5 +1,4 @@
-﻿#nullable enable
-namespace CSharpStudying
+﻿namespace CSharpStudying
 {
     public interface IFly
     {
