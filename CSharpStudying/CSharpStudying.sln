@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpStudying", "CSharpStudying\CSharpStudying.csproj", "{E9DCB0C3-D365-4C24-B936-5DA0830E9113}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpDictionary", "CsharpDictionary\CsharpDictionary.csproj", "{7327BD22-AB98-41EA-9CE6-04979F0CE36E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpSatic", "CSharpSatic\CSharpSatic.csproj", "{9BDA63A2-3C94-4E3E-8649-AD7FD4D0C196}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{E9DCB0C3-D365-4C24-B936-5DA0830E9113}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9DCB0C3-D365-4C24-B936-5DA0830E9113}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9DCB0C3-D365-4C24-B936-5DA0830E9113}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7327BD22-AB98-41EA-9CE6-04979F0CE36E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7327BD22-AB98-41EA-9CE6-04979F0CE36E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7327BD22-AB98-41EA-9CE6-04979F0CE36E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7327BD22-AB98-41EA-9CE6-04979F0CE36E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BDA63A2-3C94-4E3E-8649-AD7FD4D0C196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BDA63A2-3C94-4E3E-8649-AD7FD4D0C196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BDA63A2-3C94-4E3E-8649-AD7FD4D0C196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BDA63A2-3C94-4E3E-8649-AD7FD4D0C196}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
